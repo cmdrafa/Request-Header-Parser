@@ -1,0 +1,19 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Kraemer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmdrafa/Request-Header-Parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmdrafa/Request-Header-Parser/issues"
+  },
+  "homepage": "https://github.com/cmdrafa/Request-Header-Parser#readme",
+  "description": ""
+}
